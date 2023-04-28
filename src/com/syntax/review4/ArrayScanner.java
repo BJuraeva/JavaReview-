@@ -22,11 +22,11 @@ public class ArrayScanner {
             numbers[i]=scan.nextInt(); // next int can only capture one value
         }
 
-        for( ){
+
 
         }
 
 
 
     }
-}
+
