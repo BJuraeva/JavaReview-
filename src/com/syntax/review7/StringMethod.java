@@ -16,7 +16,7 @@ public class StringMethod {
         sb.reverse();
         System.out.println(sb); // olleH
 
-        sb.append(" Hello"); // we have String Builder Object
+        sb.append(" Hello"); // w   e have String Builder Object
         System.out.println(sb);
 
         str = sb.toString(); // convert String Builder Object String Object and re-assign to variable
