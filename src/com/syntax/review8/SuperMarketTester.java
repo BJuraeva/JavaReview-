@@ -13,6 +13,6 @@ public class SuperMarketTester {
                         // Method came from Object class -> is the parent of all Objects in java.
 
 
-        
+
     }
 }
