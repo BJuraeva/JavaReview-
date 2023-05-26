@@ -28,7 +28,7 @@ public class ENT extends Doctors{
         ent.printInfo(); // from parent"John","Snow","ENT","Maryland "
         ent.treat();  // from parent
         ent.treat("John Wick"); //from parent
-        ent.prescribeMedicine("Fluticasone nasal preparations "); // overrinding method
+        ent.prescribeMedicine("Fluticasone nasal preparations "); // overriding method
         ent.inspect("Nose"); // ent own method
 
 
